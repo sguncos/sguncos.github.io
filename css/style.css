@@ -13,3 +13,7 @@
     border-style: solid;
     border-radius: 30px;
 }
+
+html {
+    scroll-behavior: smooth;
+}
